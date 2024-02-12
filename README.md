@@ -1,2 +1,2 @@
 # contact-list-app
-application for CRUD operation in javascript
+is an application built in JavaScript that provides CRUD (Create, Read, Update, Delete) functionality for managing a contact list. It allows users to create new contacts, view existing contacts, update contact information, and delete contacts. The application is implemented using JavaScript, HTML, and CSS, making it compatible with modern web browsers. With its CRUD operations, the contact-list-app repository offers a simple and intuitive way to manage and organize contact information.
